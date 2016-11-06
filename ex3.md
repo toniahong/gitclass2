@@ -6,7 +6,7 @@ Hello World in my fovorite language:
 
 ```
 Javascript
-alert 'Hello World!'
+alert '<font color="blue">Hello World!<font>'
 ```
 
 
